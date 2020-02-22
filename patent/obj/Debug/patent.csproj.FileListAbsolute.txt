@@ -1,0 +1,12 @@
+C:\Users\maksi\Desktop\patent\patent\bin\Debug\patent.exe.config
+C:\Users\maksi\Desktop\patent\patent\bin\Debug\patent.exe
+C:\Users\maksi\Desktop\patent\patent\bin\Debug\patent.pdb
+C:\Users\maksi\Desktop\patent\patent\bin\Debug\ClassLibraryRool.dll
+C:\Users\maksi\Desktop\patent\patent\obj\Debug\patent.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\patent\patent\obj\Debug\patent.Form1.resources
+C:\Users\maksi\Desktop\patent\patent\obj\Debug\patent.Properties.Resources.resources
+C:\Users\maksi\Desktop\patent\patent\obj\Debug\patent.csproj.GenerateResource.cache
+C:\Users\maksi\Desktop\patent\patent\obj\Debug\patent.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\patent\patent\obj\Debug\patent.csproj.CopyComplete
+C:\Users\maksi\Desktop\patent\patent\obj\Debug\patent.exe
+C:\Users\maksi\Desktop\patent\patent\obj\Debug\patent.pdb
